@@ -1,4 +1,4 @@
-# CIFAR-Object-Recognition-in-Images
+# CIFAR-Object-Recognition-in-Images in my Computer
 
 The CIFAR-10 dataset contains 60,000 32x32 color images in 10 different classes.
 
